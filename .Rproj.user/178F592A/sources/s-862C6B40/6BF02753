@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584548382165.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3783288887",
+    "id" : "6BF02753",
+    "lastKnownWriteTime" : 1584548412,
+    "last_content_update" : 1584548412239,
+    "path" : "~/RStudio/datasciencecoursera/helloWorld.Rmd",
+    "project_path" : "helloWorld.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
